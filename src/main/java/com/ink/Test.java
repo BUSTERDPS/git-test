@@ -18,5 +18,6 @@ public class Test {
         System.out.println("test 333");
         System.out.println("test 444");
         System.out.println("master commit");
+        System.out.println("hot-fix commit");
     }
 }
